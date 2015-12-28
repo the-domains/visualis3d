@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8351254
+  lightness: 0.0125448
+  brandStrength: 1
+  brandColors:
+    - '#020202'
+    - '#656565'
+    - '#303030'
+    - '#FBFBFB'
+    - '#BCBDBE'
+  rhythmicContrast: 0.6344086
+typography_spectrum: 0.2932021
+layout_spectrum: 0.06989247
+name: Visualis3D
