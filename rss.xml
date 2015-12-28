@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Digital Visualisation Company]]></title>
         <description><![CDATA[Digital Visualisation Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/visualis3d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 15:09:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 15:14:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visualis3d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Clamp Render]]></title>
-            <description><![CDATA[<article><h1>Clamp Render</h1><p>Simple render of a seat clamp assembly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43038103707126b9fee7efa61fa3eefa5a247124.jpg"></article>]]></description>
-            <link>undefinedclamp-render/index.html</link>
+            <description><![CDATA[<article><h1>Clamp Render</h1><p>Simple render of a seat clamp assembly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa32e544a7cbba8436e034523eb6cd8b55b7de0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/visualis3d/clamp-render/index.html</link>
             <guid isPermaLink="false">d3c259a4-2b8a-4db2-bf3e-6ca30cd35b22</guid>
-            <pubDate>Mon, 28 Dec 2015 15:08:59 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 15:14:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
