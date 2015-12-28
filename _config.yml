@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8351254
-  lightness: 0.0125448
+  saturation: 1
   brandStrength: 1
+  lightness: 0.5107527
   brandColors:
     - '#020202'
     - '#656565'
     - '#303030'
     - '#FBFBFB'
     - '#BCBDBE'
-  rhythmicContrast: 0.6344086
-typography_spectrum: 0.2932021
+  rhythmicContrast: 1
+typography_spectrum: 0.5985663
 layout_spectrum: 0.06989247
 name: Visualis3D
