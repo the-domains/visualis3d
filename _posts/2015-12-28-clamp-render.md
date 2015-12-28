@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Simple render of a seat clamp assembly
-datePublished: '2015-12-28T15:08:59.857Z'
-dateModified: '2015-12-28T15:07:37.762Z'
+datePublished: '2015-12-28T15:14:11.339Z'
+dateModified: '2015-12-28T15:14:00.342Z'
 title: Clamp Render
 author: []
 authors: []
