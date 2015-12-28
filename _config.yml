@@ -1,3 +1,7 @@
+name: Visualis3D
+favicon: null
+layout_spectrum: 0.06989247
+typography_spectrum: 0.5985663
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Digital Visualisation Company
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.5107527
   brandColors:
     - '#020202'
     - '#656565'
     - '#303030'
     - '#FBFBFB'
     - '#BCBDBE'
+  brandStrength: 1
+  lightness: 0.5107527
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.5985663
-layout_spectrum: 0.06989247
-name: Visualis3D
+purpose: []
