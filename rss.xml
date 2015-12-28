@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Visualisation Company]]></title>
+        <description><![CDATA[Digital Visualisation Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 15:09:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clamp Render]]></title>
+            <description><![CDATA[<article><h1>Clamp Render</h1><p>Simple render of a seat clamp assembly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43038103707126b9fee7efa61fa3eefa5a247124.jpg"></article>]]></description>
+            <link>undefinedclamp-render/index.html</link>
+            <guid isPermaLink="false">d3c259a4-2b8a-4db2-bf3e-6ca30cd35b22</guid>
+            <pubDate>Mon, 28 Dec 2015 15:08:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
