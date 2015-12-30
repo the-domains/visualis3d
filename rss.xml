@@ -4,8 +4,15 @@
         <description><![CDATA[Digital Visualisation Company]]></description>
         <link>https://thegrid.ai/visualis3d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 15:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 07:44:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualis3d/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CG Model]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a32f1f4f2f7ce8d53ae11cb4537c0075e9142cbf.jpg"></article>]]></description>
+            <link>https://twitter.com/Visualis3D</link>
+            <guid isPermaLink="false">17a0bd51-35e9-4768-8f7c-17530bb83d6a</guid>
+            <pubDate>Wed, 30 Dec 2015 07:44:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Clamp Render]]></title>
             <description><![CDATA[<article><h1>Clamp Render</h1><p>Simple render of a seat clamp assembly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1105c9c2081b78a44fe84ed89c303f5632369ed5.jpg"></article>]]></description>
@@ -32,13 +39,6 @@
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CUQ8yM0UAAA_Kaq.jpg">]]></description>
             <link>https://thegrid.ai/visualis3d/b1ca459b-7a79-48c5-8bd7-5a1e133c3df8/index.html</link>
             <guid isPermaLink="false">b1ca459b-7a79-48c5-8bd7-5a1e133c3df8</guid>
-            <pubDate>Mon, 28 Dec 2015 15:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CXFQa7YWAAAczsu.jpg">]]></description>
-            <link>https://thegrid.ai/visualis3d/17a0bd51-35e9-4768-8f7c-17530bb83d6a/index.html</link>
-            <guid isPermaLink="false">17a0bd51-35e9-4768-8f7c-17530bb83d6a</guid>
             <pubDate>Mon, 28 Dec 2015 15:20:28 GMT</pubDate>
         </item>
     </channel>
