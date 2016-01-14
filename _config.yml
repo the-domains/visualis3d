@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.5
@@ -22,7 +22,7 @@ color:
     - '#222222'
     - '#fcfcfc'
     - '#adadad'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.3351254
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Visualis3D
 favicon: null
+name: Visualis3D
 opengraph:
   image: null
   type: null
