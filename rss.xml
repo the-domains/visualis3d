@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Visualisation Company]]></description>
         <link>https://thegrid.ai/visualis3d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 06:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 05:41:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualis3d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CG Model]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[Clamp Render]]></title>
-            <description><![CDATA[<article><h1>Clamp Render</h1><p>Simple render of a seat clamp assembly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1105c9c2081b78a44fe84ed89c303f5632369ed5.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61f33b30-38d5-4838-ac30-d0d61e20adda.jpg">]]></description>
             <link>https://thegrid.ai/visualis3d/clamp-render/index.html</link>
             <guid isPermaLink="false">d3c259a4-2b8a-4db2-bf3e-6ca30cd35b22</guid>
             <pubDate>Mon, 28 Dec 2015 15:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autodesk and the IOT]]></title>
+            <description><![CDATA[<article><h1>Autodesk and the IOT</h1><p>With the consumer #IoT, we invite companies into our homes, cars, clothes, and beds. http://autode.sk/1YLwavE</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/840e2c65149e980c3ef60dd15e0022583a296e43.jpg"></article>]]></description>
+            <link>https://twitter.com/autodesk/status/723632725111001088</link>
+            <guid isPermaLink="false">79569fa2-425b-4fc1-9821-708794e0493e</guid>
+            <pubDate>Sat, 23 Apr 2016 05:39:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
