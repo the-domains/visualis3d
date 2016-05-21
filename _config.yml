@@ -1,5 +1,8 @@
+name: Visualis3D
+favicon: null
+layout_spectrum: 0.24659
+typography_spectrum: 0.1487455
 title: Digital Visualisation Company
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.8655914
-  lightness: 0.8637993
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#CFCFCF'
     - '#9A9A9B'
     - '#777778'
+  brandStrength: 0.8655914
+  lightness: 0.8637993
+  saturation: 1
   rhythmicContrast: 0.7885305
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Visualis3D
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1487455
-layout_spectrum: 0.03225806
+purpose: []
