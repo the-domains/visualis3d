@@ -1,7 +1,18 @@
+layout_spectrum: 0.4540981771424413
+typography_spectrum: 0.2290664145257324
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.16582509456202388
+  lightness: 0.7482427393551916
+  saturation: 0.63216437632218
+  rhythmicContrast: 0.9852321804501116
 name: Visualis3D
 favicon: null
-layout_spectrum: 0.24659
-typography_spectrum: 0.1487455
 title: Digital Visualisation Company
 collections:
   - index:
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#54a5d2'
-    - '#3069a0'
-    - '#b5dbff'
-    - '#292e32'
-  brandStrength: 0.25
-  lightness: 0.8125
-  saturation: 0.9375
-  rhythmicContrast: 0.5
 purpose: []
