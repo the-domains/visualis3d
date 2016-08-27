@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Visualisation Company]]></description>
         <link>https://thegrid.ai/visualis3d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 05:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 05:33:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualis3d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Autodesk 2016 VFX Showreel]]></title>
@@ -26,13 +26,6 @@
             <link>https://twitter.com/photoshop/status/712678761880113152</link>
             <guid isPermaLink="false">918312c1-eba5-4211-a568-a65cf3ddca81</guid>
             <pubDate>Thu, 24 Mar 2016 06:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CV8KxOTXIAAe6ra.jpg">]]></description>
-            <link>https://thegrid.ai/visualis3d/d73abc13-92f7-4270-a30d-58648478f209/index.html</link>
-            <guid isPermaLink="false">d73abc13-92f7-4270-a30d-58648478f209</guid>
-            <pubDate>Mon, 28 Dec 2015 15:20:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
