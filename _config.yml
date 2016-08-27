@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.63216437632218
+  saturation: 0.8351235
   brandStrength: 0.1658250945620239
-  rhythmicContrast: 0.9852321804501116
+  lightness: 0.3238453
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  lightness: 0.7482427393551916
+  rhythmicContrast: 0.4065521
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Visualis3D
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2290664145257324
-layout_spectrum: 0.9554242
+layout_spectrum: 0.9973147
