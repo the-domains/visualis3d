@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Visualisation Company]]></description>
         <link>https://thegrid.ai/visualis3d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 05:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 05:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualis3d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CG Model]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/visualis3d/clamp-render/index.html</link>
             <guid isPermaLink="false">d3c259a4-2b8a-4db2-bf3e-6ca30cd35b22</guid>
             <pubDate>Mon, 28 Dec 2015 15:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autodesk 2016 VFX Showreel]]></title>
+            <description><![CDATA[<article><h1>Autodesk 2016 VFX Showreel</h1><p>Always a pleasure to watch each year. It’s always suprising where software gets used these days...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/518ce46e3a72aa1e94542cc8bccf4504/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fta1KHKVYfgg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>http://youtu.be/ta1KHKVYfgg</link>
+            <guid isPermaLink="false">d70e5b62-d89c-4540-9660-3f24e22e6843</guid>
+            <pubDate>Sat, 27 Aug 2016 05:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autodesk and the IOT]]></title>
